@@ -1,4 +1,4 @@
-UX Engineerr & Software Designer based in Austin, Texas. See more at https://codepen.io/diego-gallardo-the-styleful
+UX Engineer & Software Designer based in Austin, Texas. See more at https://codepen.io/diego-gallardo-the-styleful
 
 ### Languages
 ![React](https://img.shields.io/badge/-React-61dbfb?&logo=React&logoColor=fff)
